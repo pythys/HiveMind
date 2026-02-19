@@ -2,6 +2,17 @@
 HiveMind Project Management and Service ERP Release Notes
 
 ===========================================================================
+Release 1.5.1 - 18 Feb 2026
+===========================================================================
+
+HiveMind Project Management and Service ERP 1.5.1 is a stabilization release
+for the most recent commit of Moqui version 3.
+
+There are very few changes here.
+
+https://github.com/moqui/HiveMind/compare/v1.5.0...v1.5.1
+
+===========================================================================
 Release 1.5.0 - 31 May 2022
 ===========================================================================
 
