@@ -1,9 +1,8 @@
 ## HiveMind Project Management and Service ERP
 
 [![license](http://img.shields.io/badge/license-CC0%201.0%20Universal-blue.svg)](https://github.com/moqui/HiveMind/blob/master/LICENSE.md)
-[![build](https://travis-ci.org/moqui/HiveMind.svg)](https://travis-ci.org/moqui/HiveMind)
 [![release](http://img.shields.io/github/release/moqui/HiveMind.svg)](https://github.com/moqui/HiveMind/releases)
-[![commits since release](http://img.shields.io/github/commits-since/moqui/HiveMind/v1.5.1.svg)](https://github.com/moqui/HiveMind/commits/master)
+[![commits since release](http://img.shields.io/github/commits-since/moqui/HiveMind/v1.5.2.svg)](https://github.com/moqui/HiveMind/commits/master)
 [![downloads](http://img.shields.io/github/downloads/moqui/HiveMind/total.svg)](https://github.com/moqui/HiveMind/releases)
 
 [![Discourse Forum](https://img.shields.io/badge/moqui%20forum-discourse-blue.svg)](https://forum.moqui.org)
@@ -32,12 +31,12 @@ If you don't have gradle or ant installed you can use this command line to run J
 
 ### Build and Run Locally
 
-To get and locally run the latest HiveMind you'll need JDK 11 or later (OpenJDK or Oracle), and either a git client or you can 
+To get and locally run the latest HiveMind you'll need JDK 21 or later (Eclipse Temurin recommended), and either a git client or you can 
 use the binary download link on GitHub.
 
 Java can be downloaded here (make sure to use the Download button under the **JDK** column, NOT the under the JRE column):
 
-<https://adoptium.net/temurin/releases?version=11&os=any&arch=any>
+<https://adoptium.net/temurin/releases?version=21&os=any&arch=any>
 
 The following instructions use the Gradle Wrapper to build. You can optionally download and install Gradle 
 (from <http://www.gradle.org/downloads>) and use **gradle** instead of **./gradlew** in the example commands.
